@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">¡Hola che, como va toda la onda! · Vertical</string>
+    <color name="color_texto_saludo">#153D5B</color>
+    <color name="color_fondo_pantalla">#DCEEFF</color>
+</resources>

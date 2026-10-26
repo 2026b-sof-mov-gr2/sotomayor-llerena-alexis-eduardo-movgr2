@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Wsup bro, nice to meet yo! - upright</string>
+    <color name="color_texto_saludo">#14532D</color>
+    <color name="color_fondo_pantalla">#DCFCE7</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hey there, hows it going? - Horizontal</string>
+    <color name="color_texto_saludo">#78350F</color>
+    <color name="color_fondo_pantalla">#FEF3C7</color>
+</resources>
