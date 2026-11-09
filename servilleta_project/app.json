@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Mock CRUD EPN",
+    "slug": "mock-crud-epn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package": "com.epn.mockcrud"}
+  }
+}
