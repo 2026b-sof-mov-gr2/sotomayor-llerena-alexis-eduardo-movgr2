@@ -6,17 +6,15 @@
  */
 
 import React, {useState} from 'react';
-import {StatusBar, StyleSheet, useColorScheme, View} from 'react-native';
+import {StatusBar, StyleSheet, View} from 'react-native';
 import ListScreen from './src/screens/ListScreen';
 import FormScreen from './src/screens/FormScreen';
 import {initialAulas, Aula} from './src/data/aulas';
 
 function App() {
-  const isDarkMode = useColorScheme() === 'dark';
-
   return (
     <>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
+      <StatusBar barStyle="light-content" />
       <AppContent />
     </>
   );
